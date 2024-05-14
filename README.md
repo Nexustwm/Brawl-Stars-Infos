@@ -31,6 +31,6 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 
 This project is licensed under the MIT License. You are free to modify and distribute the code, but you must credit Nexustwm and include the license notice in any copies or derivatives of the software.
 
-For any inquiries or questions, please contact Maris Moraru at marismoraru@gmail.com.
+For any inquiries or questions, please contact me at marismoraru@gmail.com.
 
 
